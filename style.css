@@ -1,0 +1,27 @@
+body{
+    align-items: center;
+    text-align: center;
+    background-image: url(Rock-Paper-Scissor/wp8121945.jpg);
+}
+#myH1{
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+#choices{
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+    border: 50%;
+}
+.greentext{
+    color:lightgreen;
+}
+.redtext{
+    color:tomato;
+}
+#playerdisplay,#computerdisplay{
+    font-size: 2.5rem;
+}
+#resultdisplay{
+    font-size: 5rem;
+    margin: 30px 0;
+}
